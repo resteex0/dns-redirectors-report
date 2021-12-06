@@ -12,6 +12,8 @@ before days the steps of this attack is bruteforce of ssh , poc of this logging 
 
 ',,,,,,,,,,,, this biggest distributed dns attack in histroty this days'
 
-https://youtu.be/_e9BACYRyKU ,
+https://youtu.be/_e9BACYRyKU 
 
 https://app.any.run/tasks/39c11bb7-edbe-40a6-9f58-458008cafc72
+https://any.run/report/4fff4b3d317901d89f8fff180cde4b9600ded2a158ea019c5a705e235e562c69/39c11bb7-edbe-40a6-9f58-458008cafc72
+
