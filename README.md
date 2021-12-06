@@ -6,7 +6,7 @@ please be save , you traditional of antivirus and firewall not save you from sni
 
 hidden real black hackers are compromised totally almost all website , not have any company now and website not have compromise , if you ask me example is github or another same as big organization is compromised ? my answer in this sheet nslookup for ip inside sheet and see rabit hole
 
-this new freshelly upload video on youtube from blackhat about vulnarability domain hijackin related to dns = almost this ip attackers in my list  related to this vulnarbility , now as 7-12-2021 , the world under distributed attacks in resourse below , if any one see this and not takecare about blackevil ip i think his already compromised and very late to response
+this new freshelly upload video on youtube from blackhat about vulnarability domain hijacking related to dns(spoofing master dns) by duplictad fqdn with differnt ip without validation registrtion dns record = almost this ip attackers in my list  related to this vulnarbility , now as 7-12-2021 , the world under distributed attacks in resourse below , if any one see this and not takecare about blackevil ip i think his already compromised and very late to response
 
 before days the steps of this attack is bruteforce of ssh , poc of this logging faluir frequency , and suspoius traffic with start tcp flage A or and AP
 
