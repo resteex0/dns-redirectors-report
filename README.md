@@ -1,5 +1,5 @@
 first writting :6-12-2021,
-attack group code name : dns-redirectors,
+attack group code name : dns-redirectors(dga),
 type of group : robots process automation of attacks , remarks: very rare c2 commnication as domination in investigation, ip :104.18.3.114 , company name of dns server comprimsed : cloudflare
 
 # this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
@@ -12,6 +12,8 @@ hidden real black hackers are compromised totally almost all website , not have 
 this new freshelly upload video on youtube from blackhat about vulnarability domain hijacking related to dns(spoofing master dns) by duplictad fqdn with differnt ip without validation registrtion dns record = almost this ip attackers in my list  related to this vulnarbility , now as 7-12-2021 , the world under distributed attacks now , poc in resourse below , if any one see this and not takecare about blackevil ip i think his already compromised and very late to response
 
 before days the steps of this attack is bruteforce of ssh , poc of this logging faluir frequency , and suspoius traffic with start tcp flage A or AP and TLS Handshake Failure , if you good firwall but not harding your system you already compreised too by sending emails to attackers with hidden connections and traffic same as dns tunnel technique including critical info of your system and may be keyloggin as achieve goal of attacker
+
+dga algo used by automation hackers from creating to last stage of attacks to build complex of network of dns server effected to replicated quariers to another nodes untile getting dropped malware by trying passing your original quary to multi maloius dns server , example for that if you request any website should not at normal excessed 1 dns quarie ( one ip resolved to domain) , but in our case any traffic excessed more than 100 dns quareis in on request , this normal ? offcourse not , this biggest network of malware brokers traget almost one
 
 ',,,,,,,,,,,, this biggest distributed dns attack in histroty this days'
 
