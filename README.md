@@ -1,3 +1,6 @@
+first writting :6-12-2021
+attack group code name : dns-refelectors
+
 # this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
 the list will defend from darkevil of iceberge internet network worldwide 
 
@@ -23,7 +26,7 @@ https://www.hybrid-analysis.com/sample/18012fc476a1dd5d4b91975f52f7dd66684a23a39
 https://www.joesandbox.com/analysis/529750/0/html
 https://www.joesandbox.com/analysis/499413/0/html
 
-# mitre matrix / (1) intial access / (a) drive by compromise 
+# stage (I) : att&ck mitre matrix / (1) intial access / (a) drive by compromise 
 
 # cross site scripting (xss) now playing big roles in attacks
 found iframes	
