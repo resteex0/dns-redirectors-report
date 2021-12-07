@@ -25,6 +25,7 @@ https://www.joesandbox.com/analysis/499413/0/html
 
 # mitre matrix / (1) intial access / (a) drive by compromise 
 
+# cross site scripting (xss) now playing big roles in attacks
 found iframes	
 Hide sources(xss stored by javascript injection and xss reflected in url encoded) very clear
 
