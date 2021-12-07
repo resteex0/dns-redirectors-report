@@ -23,3 +23,42 @@ https://www.hybrid-analysis.com/sample/18012fc476a1dd5d4b91975f52f7dd66684a23a39
 https://www.joesandbox.com/analysis/529750/0/html
 https://www.joesandbox.com/analysis/499413/0/html
 
+#compromise mitre poc
+found iframes	
+Hide sources
+Source: https://ethsysteminv.com/index-de.html?transaction_id=U0EyTys4TmJSWWs9	HTTP Parser: Iframe src: https://player.vimeo.com/video/609887658
+Source: https://ethsysteminv.com/index-de.html?transaction_id=U0EyTys4TmJSWWs9	HTTP Parser: Iframe src: https://www.coingecko.com/en/widget_component/ticker/ethereum/gbp?id=ethereum
+Source: https://ethsysteminv.com/index-de.html?transaction_id=U0EyTys4TmJSWWs9	HTTP Parser: Iframe src: https://player.vimeo.com/video/609887658
+Source: https://ethsysteminv.com/index-de.html?transaction_id=U0EyTys4TmJSWWs9	HTTP Parser: Iframe src: https://www.coingecko.com/en/widget_component/ticker/ethereum/gbp?id=ethereum
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://1f5cfc4e0928611bed5eaa6a1a4de64e.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://sync.richaudience.com/74889303289e27f327ad0c6de7be7264/?p=1BTOoaD22a&r=https%3A%2F%2Fmp.4dex.io%2Fsetuid%3Fbidder%3Drichaudience%26uid%3D[PDID]
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://aax-eu.amazon-adsystem.com/s/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-LoopMe_n-acuityads_ox-db5_dm_smrt_cnv_n-amobee_n-smaato_n-sharethrough_pm-db5_ym_rbd_an-db5_sovrn
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=onfocus&endpoint=eu
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/sodar/sodar2/224/runner.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://www.google.com/recaptcha/api2/aframe
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159110&predirect=https%3A%2F%2Fmp.4dex.io%2Fsetuid%3Fbidder%3Dpubmatic%26uid%3D(PM_UID)
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://eu-u.openx.net/w/1.0/pd?plm=6&ph=626fe778-b2ca-415b-a3f6-584fd2ac5ec0&gdpr=0
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://eus.rubiconproject.com/usync.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://ap.lijit.com/beacon?informer=8128488
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://eb2.3lift.com/sync?
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://contextual.media.net/checksync.php?vsSync=1&cs=8&cv=31&https=1&cid=8CU18831I&prvid=2034%2C2033%2C2011%2C3022%2C3020%2C2030%2C273%2C251%2C175%2C2009%2C255%2C178%2C3018%2C2028%2C3017%2C2027%2C236%2C214%2C237%2C2025%2C3014%2C117%2C70%2C97%2C99%2C77%2C38%2C3012%2C3011%2C3010%2C182%2C261%2C141%2C222%2C3007%2C201%2C4%2C301%2C246%2C225%2C203%2C80%2C10000%2C9%2C108&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1&itype=PREBID
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://acdn.adnxs.com/dmp/async_usersync.html
+Source: https://www.coingecko.com/en	HTTP Parser: Iframe src: https://onetag-sys.com/usync/?cb=1633716940998
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://9703e087e418f934863e5cce8881878a.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://aax-eu.amazon-adsystem.com/s/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-LoopMe_n-acuityads_ox-db5_dm_smrt_cnv_n-amobee_n-smaato_n-sharethrough_pm-db5_ym_rbd_an-db5_sovrn
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://9703e087e418f934863e5cce8881878a.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://aax-eu.amazon-adsystem.com/s/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-LoopMe_n-acuityads_ox-db5_dm_smrt_cnv_n-amobee_n-smaato_n-sharethrough_pm-db5_ym_rbd_an-db5_sovrn
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://contextual.media.net/checksync.php?vsSync=1&cs=8&cv=31&https=1&cid=8CU18831I&prvid=2034%2C2033%2C2011%2C3022%2C3020%2C2030%2C273%2C251%2C175%2C2009%2C255%2C178%2C3018%2C2028%2C3017%2C2027%2C236%2C214%2C237%2C2025%2C3014%2C117%2C70%2C97%2C99%2C77%2C38%2C3012%2C3011%2C3010%2C182%2C261%2C141%2C222%2C3007%2C201%2C4%2C301%2C246%2C225%2C203%2C80%2C10000%2C9%2C108&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1&itype=PREBID
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://eu-u.openx.net/w/1.0/pd?plm=6&ph=626fe778-b2ca-415b-a3f6-584fd2ac5ec0&gdpr=0
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://ap.lijit.com/beacon?informer=8128488
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://acdn.adnxs.com/dmp/async_usersync.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://eus.rubiconproject.com/usync.html
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://onetag-sys.com/usync/?cb=1633716936582
+Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://eb2.3lift.com/sync?
+
+
