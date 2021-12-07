@@ -1,4 +1,4 @@
-first writting :6-12-2021
+first writting :6-12-2021,
 attack group code name : dns-refelectors
 
 # this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
