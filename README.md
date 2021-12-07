@@ -1,5 +1,5 @@
 first writting :6-12-2021,
-attack group code name : dns-replictors,
+attack group code name : dns-redirectors,
 type of group : robots process automation of attacks , remarks: very rare c2 commnication as domination in investigation, ip :104.18.3.114 , company name of dns server comprimsed : cloudflare
 
 # this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
@@ -16,6 +16,7 @@ before days the steps of this attack is bruteforce of ssh , poc of this logging 
 ',,,,,,,,,,,, this biggest distributed dns attack in histroty this days'
 
 https://youtu.be/_e9BACYRyKU 
+https://youtu.be/ihxkxV80u6I
 
 https://app.any.run/tasks/39c11bb7-edbe-40a6-9f58-458008cafc72
 https://any.run/report/4fff4b3d317901d89f8fff180cde4b9600ded2a158ea019c5a705e235e562c69/39c11bb7-edbe-40a6-9f58-458008cafc72
