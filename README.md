@@ -15,6 +15,10 @@ before days the steps of this attack is bruteforce of ssh , poc of this logging 
 
 dga algo used by automation hackers from creating to last stage of attacks to build complex of network of dns server effected to replicated quariers to another nodes untile getting dropped malware by trying passing your original quary to multi maloius dns server , example for that if you request any website should not at normal excessed 1 dns quarie ( one ip resolved to domain) , but in our case any traffic excessed more than 100 dns quareis in on request , this normal ? offcourse not , this biggest network of malware brokers traget almost one
 
+attacker bypass registrtion domains to aviod sniffing traffic by getting subdomain of famous domain samae as x.github.com 
+to avoid any one registration this subdomain because child of registed parrent host domain (github.com)and have soc team itself back of attackers , after that attckers pointers the new subdomain with external dns or ip also famous company same as cloudflare  and change subdomain automaticall every time with fixed ip because ip in controle network of replications of query
+
+
 ',,,,,,,,,,,, this biggest distributed dns attack in histroty this days'
 
 https://youtu.be/_e9BACYRyKU ,
