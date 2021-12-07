@@ -1,6 +1,6 @@
 first writting :6-12-2021,
 attack group code name : dns-refelectors,
-type of group : robots process automation of attacks , very rare c2 commnication as domination in investigation
+type of group : robots process automation of attacks , remarks: very rare c2 commnication as domination in investigation
 
 # this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
 the list will defend from darkevil of iceberge internet network worldwide 
