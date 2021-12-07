@@ -1,4 +1,4 @@
-# this file will achieve as soon one million (unique organic ip evil brokers) related to new technique of hunting and open investigation report without external resource edr or samilar
+# this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper in history) related to new technique of hunting and open investigation report without external resource edr or samilar
 the list will defend from darkevil of iceberge internet network worldwide 
 
 please be save , you traditional of antivirus and firewall not save you from sniffing(sessions hijacking) at minumum threat now online 
