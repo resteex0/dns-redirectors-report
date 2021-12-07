@@ -21,11 +21,11 @@ to avoid any one registration this subdomain because child of registed parrent h
 poc of passive dns and malware dropping file in investigation by this link :
 https://www.virustotal.com/graph/embed/g486e9a34a4ce493688877dab07166e6b92a8b3f80c824f7a9facda1284cb735d
 
-<iframe
+# <iframe
   src="https://www.virustotal.com/graph/embed/g486e9a34a4ce493688877dab07166e6b92a8b3f80c824f7a9facda1284cb735d"
   width="700"
   height="400">
-</iframe>
+</iframe> # 
 
 ',,,,,,,,,,,, this biggest distributed dns attack in histroty this days'
 
