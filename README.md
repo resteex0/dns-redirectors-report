@@ -113,7 +113,7 @@ am recommended ufw is the best for my openion and great choise if you want large
 
 the https://github.com/resteex0/dns-redirectors-report have update every time with evilip list , you can download with ufw firewall to preventation from this kinds of evil attacks
 
-# C- intrustion preventation system or intrstion detection system
+# C- network intrustion preventation system or network intrstion detection system
 
 am recommended suricata is the best IDS in history for detection or preventation and his exellent job for this kind of attacks
 
@@ -125,3 +125,7 @@ if you optimum security do audit and ban together as ssh service
 
 # F- dont trust for any plugin connect to internet 
 special internet browsers pluggines as firefox or chrome or IE is hidden agent for bad traffic and redirect dns query to special dns server , should be clean your environement by what you install what you select to work
+
+# H- host intrustion preventation system or host intrstion detection system for malware and trojan
+yara rules is best and antimalware repestive for yara rule is clamav good choise , if combined clamav and wazuh you will getting highly secure environment after above all steps for defending
+
