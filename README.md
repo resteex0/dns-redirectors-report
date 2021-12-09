@@ -104,4 +104,4 @@ question now why you need to your query reach to dns root servers ? i think you 
 
 # B- firewall
 should to be have any firewall with simple understanding configuration rules 
-am recommended ufw is the best for my openion and great choise if you want large scale by insatlling i5 at service on respery-pi
+am recommended ufw is the best for my openion and great choise if you want large scale by insatlling it at service on respery-pi
