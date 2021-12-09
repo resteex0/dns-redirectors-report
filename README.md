@@ -83,6 +83,11 @@ Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser:
 Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://onetag-sys.com/usync/?cb=1633716936582
 Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://eb2.3lift.com/sync?
 
+# DE&&TECT
+
+# A- logging 
+any kind of logging as bignner is good and inrease your exprinse what you want need from logging recoreds to secure more your environemnet day by day
+
 # defend
 
 # A- auditing
