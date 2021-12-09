@@ -105,3 +105,5 @@ question now why you need to your query reach to dns root servers ? i think you 
 # B- firewall
 should to be have any firewall with simple understanding configuration rules 
 am recommended ufw is the best for my openion and great choise if you want large scale by insatlling it at service on respery-pi
+
+the https://github.com/resteex0/dns-redirectors-report have update every time with evilip list , you can download with ufw firewall to preventation from this kinds of evil attacks
