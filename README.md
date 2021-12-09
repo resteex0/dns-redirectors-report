@@ -108,8 +108,12 @@ am recommended ufw is the best for my openion and great choise if you want large
 
 the https://github.com/resteex0/dns-redirectors-report have update every time with evilip list , you can download with ufw firewall to preventation from this kinds of evil attacks
 
-# c- intrustion preventation system or intrstion detection system
+# C- intrustion preventation system or intrstion detection system
 
 am recommended suricata is the best IDS in history for detection or preventation and his exellent job for this kind of attacks
 
 note : suricata not working as you want if you dont customizing or download rules you needing for you understand , am recommended et open rules 
+
+# D- baning for abusing bruteforce
+fail2ban example good for ban ssh bruteforce 
+if you optimum security do audit and ban together 
