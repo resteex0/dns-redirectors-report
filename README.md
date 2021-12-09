@@ -86,7 +86,7 @@ Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser:
 # DE&&TECT
 
 # A- logging 
-any kind of logging as bignner is good and inrease your exprinse what you want need from logging recoreds to secure more your environemnet day by day
+any kind of logging as bignner is good and increase your exprinse what you want need from logging recoreds to secure more your environemnet day by day
 
 # defend
 
