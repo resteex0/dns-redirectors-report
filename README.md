@@ -86,9 +86,15 @@ Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser:
 # DE&&TECT
 
 # A- logging 
-any kind of logging as bignner is good and increase your exprinse what you want need from logging recoreds to secure more your environemnet day by day
+any kind of logging as bignner is good and increase your exprinse what you want need from logging recoreds to secure more your environemnet day by day , 
 
-# defend
+automation schedulling looking for alerts in path of logging file example in linux system in path /var/log/*
+
+
+# B- network intrstion detection system
+dont foreget to check yoyr IDS WORKING AS DEAMON in backgound to detection and logging for any alert exampl3 suricata tool
+
+# DEFEND
 
 # A- auditing
 
