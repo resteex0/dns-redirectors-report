@@ -95,7 +95,7 @@ automation schedulling looking for alerts in path of logging file example in lin
 dont foreget to check yoyr IDS WORKING AS DEAMON in backgound to detection and logging for any alert example suricata tool
 
 # C- dont stop sniffing on your network rotational
-sometimes the attackers is success connection to outside network to c2 server , should take snaping traffic with wireshark or tshark or tcpdump and archiving as pcap for intrusion analaysis in two mode THIS VERY HIGH NOTES AS FOLLOING
+sometimes the attackers is success connection to outside network to c2 server , should take snaping traffic with wireshark or tshark or tcpdump and archiving as pcap for intrusion analaysis in two mode THIS VERY HIGH NOTES AS FOLLOWING
 
 ( two traffic capture modes )
 a- active with starting browsing on intenet and save pcap with ending your activity on outside your network
