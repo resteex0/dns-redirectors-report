@@ -83,4 +83,16 @@ Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser:
 Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://onetag-sys.com/usync/?cb=1633716936582
 Source: https://www.coingecko.com/en/coins/ethereum/gbp?ref=wticker	HTTP Parser: Iframe src: https://eb2.3lift.com/sync?
 
+#defend
+
+1- linux and windowds harding and audit 
+in linux install auditd and download customise auditd rule 
+
+2- disable recuressive dns query and disable cach for dns poising 
+in linux /etc/bind/named.conf.options
+and edit this change and save
+
+allow-transfer {"none";};
+allow-recursion {"none";};
+recursion no;
 
