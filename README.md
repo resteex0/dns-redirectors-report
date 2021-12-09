@@ -92,7 +92,16 @@ automation schedulling looking for alerts in path of logging file example in lin
 
 
 # B- network intrstion detection system
-dont foreget to check yoyr IDS WORKING AS DEAMON in backgound to detection and logging for any alert exampl3 suricata tool
+dont foreget to check yoyr IDS WORKING AS DEAMON in backgound to detection and logging for any alert example suricata tool
+
+# C- dont stop sniffing on your network rotational
+sometimes the attackers is success connection to outside network to c2 server , should take snaping traffic with wireshark or tshark or tcpdump and archiving as pcap for intrusion analaysis in two mode THIS VERY HIGH NOTES AS FOLLOING
+
+( two traffic capture modes )
+a- active with starting browsing on intenet and save pcap with ending your activity on outside your network
+b- passive , is not making any activity on internet or outside network , capture traffic for 1000 packets example and sace pcap
+
+after this comparing analysis between two modes , if you getting any activity dns or url or domain or external ip in second mode you already compromised and should block this traffic and defending to prevent in another round
 
 # DEFEND
 
