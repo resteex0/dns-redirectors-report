@@ -116,7 +116,7 @@ note : suricata not working as you want if you dont customizing or download rule
 
 # D- baning for abusing bruteforce
 fail2ban example good for ban ssh bruteforce 
-if you optimum security do audit and ban together 
+if you optimum security do audit and ban together as ssh service
 
 # F- dont trust for any plugin connect to internet 
 special internet browsers pluggines as firefox or chrome or IE is hidden agent for bad traffic and redirect dns query to special dns server , should be clean your environement by what you install what you select to work
