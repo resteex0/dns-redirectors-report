@@ -18,6 +18,8 @@ dga algo used by automation hackers from creating to last stage of attacks to bu
 attacker bypass registrtion domains to aviod sniffing traffic by getting subdomain of famous domain samae as x.github.com 
 to avoid any one registration this subdomain because child of registed parrent host domain (github.com)and have soc team itself back of attackers , after that attckers pointers the new subdomain with external dns or ip also famous company same as cloudflare  and change subdomain automaticall every time with fixed ip because ip in controle network of replications of query
 
+unsecure recuresive dns query can be lead to very high potential infected by evilbrokers malicous dns server to start redirection to exploit kit or direct dropping long chains of malwarefamily to getting high chance for payload backdoor 
+
 # poc of passive dns and malware dropping file in investigation by this link :
 
  https://www.virustotal.com/graph/embed/g486e9a34a4ce493688877dab07166e6b92a8b3f80c824f7a9facda1284cb735d
@@ -37,6 +39,8 @@ https://www.hybrid-analysis.com/sample/18012fc476a1dd5d4b91975f52f7dd66684a23a39
 
 https://www.joesandbox.com/analysis/529750/0/html
 https://www.joesandbox.com/analysis/499413/0/html
+
+https://youtu.be/5XuPLBB0JIA
 
 # stage (I) : att&ck mitre matrix / (1) intial access / (a) drive by compromise 
 
