@@ -122,6 +122,8 @@ my be using pi-hole is useful for disable rucreesive dns query
 
 question now why you need to your query reach to dns root servers ? i think you dont need if the website you visit not have answer for his dns hosting by sourse code example ads network
 
+edit /etc/resolv.conf
+
 # B- firewall
 should to be have any firewall with simple understanding configuration rules 
 am recommended ufw is the best for my openion and great choise if you want large scale by insatlling it at service on respery-pi
