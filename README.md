@@ -20,6 +20,16 @@ to avoid any one registration this subdomain because child of registed parrent h
 
 unsecure recuresive dns query can be lead to very high potential infected by evilbrokers malicous dns server to start redirection to exploit kit or direct dropping long chains of malwarefamily to getting high chance for payload backdoor 
 
+# [TCP Previous segment not captured] Continuation indication (the critical point of exploitation)
+
+https://networkengineering.stackexchange.com/questions/55461/tcp-errors-explain
+
+TCP Previous segment not captured
+
+If packet N is marked with previous segment not captured, it means that in the capture there is no packet from the same TCP session whose seq + length would match the seq of packet N. The most typical reason is packet loss and/or late start of capture, which is the reason why the wording in question is used. But there can eventually be other reasons (buggy TCP stack of the sender, multipath network structure allowing packets belonging to the same TCP session to pass through different network interfaces so the packets do reach their destination but Wireshark cannot see them, ...), so it is up to you to check out the real reason why this has happened in your particular case.
+
+
+
 # poc of passive dns and malware dropping file in investigation by this link :
 
  https://www.virustotal.com/graph/embed/g486e9a34a4ce493688877dab07166e6b92a8b3f80c824f7a9facda1284cb735d
