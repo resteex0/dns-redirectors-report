@@ -42,7 +42,7 @@ https://www.joesandbox.com/analysis/499413/0/html
 
 https://youtu.be/5XuPLBB0JIA
 
-# sneak attack (tcp-split handshake attack) is major vulerability in network traffic without firewall rules 
+# sneak ack attack (tcp-split handshake attack) is major vulerability in network traffic without firewall rules 
 https://www.secplicity.org/2011/04/15/what-is-the-tcp-split-handshake-attack-and-does-it-affect-me/
 
 # stage (I) : att&ck mitre matrix / (1) intial access / (a) drive by compromise 
