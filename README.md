@@ -2,7 +2,7 @@ first writting :6-12-2021,
 attack group code name : dns-redirectors(dga),
 type of group : robots process automation of attacks , remarks: very rare c2 commnication as domination in investigation, ip :104.18.3.114 , company name of dns server comprimsed : cloudflare
 
-# this file will achieve as soon one million (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
+# this file will achieve as soon one million evil ip (unique organic ip evil brokers as biggest malware dropper root redirectors http or dns in history) related to new technique of hunting and open investigation report without external resource edr or samilar
 the list will defend from darkevil of iceberge internet network worldwide 
 
 please be save , you traditional of antivirus and firewall not save you from sniffing(sessions hijacking) at minumum threat now online 
@@ -41,6 +41,9 @@ https://www.joesandbox.com/analysis/529750/0/html
 https://www.joesandbox.com/analysis/499413/0/html
 
 https://youtu.be/5XuPLBB0JIA
+
+# sneak attack (tcp-split handshake attack) is major vulerability in network traffic without firewall rules 
+https://www.secplicity.org/2011/04/15/what-is-the-tcp-split-handshake-attack-and-does-it-affect-me/
 
 # stage (I) : att&ck mitre matrix / (1) intial access / (a) drive by compromise 
 
