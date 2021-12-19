@@ -163,3 +163,10 @@ yara rules is best and antimalware repestive for yara rule is clamav good choise
 # sample very evil mitre matrix
 https://app.any.run/tasks/4fd07de5-0327-45a9-8df4-ae7090492d0b#
 https://any.run/report/f959f1cef3e7ebffd07cf37ba0f4295b275c29a30591282a269cde35c672a600/4fd07de5-0327-45a9-8df4-ae7090492d0b
+
+command line sequence 
+
+
+
+"C:\Program Files\Internet Explorer\iexplore.exe" SCODEF:1016 CREDAT:144385 /prefetch:2 >>>>>> ID 3512 >>>>>>>>>>>>>> https://attack.mitre.org/techniques/T1012/
+
