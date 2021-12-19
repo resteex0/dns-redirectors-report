@@ -44,6 +44,7 @@ https://youtu.be/5XuPLBB0JIA
 
 # sneak ack attack (tcp-split handshake attack) is major vulerability in network traffic without firewall rules 
 https://www.secplicity.org/2011/04/15/what-is-the-tcp-split-handshake-attack-and-does-it-affect-me/
+https://nmap.org/misc/split-handshake.pdf
 
 # stage (I) : att&ck mitre matrix / (1) intial access / (a) drive by compromise 
 
