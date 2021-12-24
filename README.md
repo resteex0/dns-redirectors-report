@@ -1,3 +1,7 @@
+please download evil blacklist domains from here <code>https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/hosts/hosts0</code><br>
+please download evil blacklist ip from here <code>https://raw.githubusercontent.com/resteex0/dns-redirectors-report/main/ip_ufw.txt</code><br>
+
+
 first writting :6-12-2021,
 attack group code name : dns-redirectors(dga),
 type of group : robots process automation of attacks , remarks: very rare c2 commnication as domination in investigation, ip :104.18.3.114 , company name of dns server comprimsed : cloudflare
