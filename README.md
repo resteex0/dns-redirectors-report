@@ -2,7 +2,7 @@
 edit /etc/hosts with new file <code>cp -r hosts0 /etc/hosts</code><br>
 restart networking<code>service NetworkManager restart</code><br>
 
-#please download evil blacklist ip from here <code>https://raw.githubusercontent.com/resteex0/dns-redirectors-report/main/ip_ufw.txt</code>
+please download evil blacklist ip from here <code>https://raw.githubusercontent.com/resteex0/dns-redirectors-report/main/ip_ufw.txt</code>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 first writting :6-12-2021,
