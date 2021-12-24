@@ -1,4 +1,7 @@
 #please download evil blacklist domains from here <code>https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/hosts/hosts0</code><br>
+edit /etc/hosts with new file <code>cp -r hosts /etc/hosts</code><br>
+restart networking<code>service NetworkManager restart</code><br>
+
 #please download evil blacklist ip from here <code>https://raw.githubusercontent.com/resteex0/dns-redirectors-report/main/ip_ufw.txt</code><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
